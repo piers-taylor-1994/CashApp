@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Rounded square in the app background colour, with a pound sign in the app text colour. -->
+  <rect x="0" y="0" width="512" height="512" rx="112" ry="112" fill="#0f2741"/>
+  <text x="256" y="262" text-anchor="middle" dominant-baseline="central" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="330" font-weight="800" fill="#f4f7fb">£</text>
+</svg>
